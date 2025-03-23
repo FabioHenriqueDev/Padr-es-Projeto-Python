@@ -1,1 +1,1 @@
-# Padr-es-Projeto-Python
+# Padrões-Projeto-Python
